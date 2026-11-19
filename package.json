@@ -1,0 +1,21 @@
+{
+  "name": "nexus-tracker",
+  "version": "1.0.0",
+  "description": "Rastreador independente e centralizador de métricas multi-ofertas estilo UTMify",
+  "main": "api/v1/stats.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "utmify",
+    "tracker",
+    "meta-ads",
+    "ggcheckout",
+    "webhooks",
+    "attribution"
+  ],
+  "author": "Nexus Track",
+  "license": "MIT",
+  "dependencies": {}
+}
